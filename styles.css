@@ -25,3 +25,15 @@ body, a:link, a:visited, a:active{
   border-radius:10px;
   position:absolute;
 }
+
+.stretchyDancer{
+  width: 20px;
+  height: 20px;
+  background-color: lightseagreen;
+}
+
+.otherDancer{
+  border: 15px solid greenyellow;
+  border-radius:10px;
+  position:absolute;
+}
